@@ -22,7 +22,7 @@ We implemented the interface with React and Vite, and used CSS Grid and Flexbox 
 
 Building both roles helped us think beyond a property list. Good operational software must make the right details visible to the right people and keep routine actions understandable. The review process also gave us a way to check the experience against concrete requirements: module responsibilities, persistence, responsive layout, and a working demonstration.
 
-Our next step would be to replace sample records and simulated payments with a secure backend, then add real maintenance requests, lease documents, and tenant-owner communication.
+Our next step would be to replace browser-local sample records and simulated payments with a secure backend, add maintenance requests and signed lease documents, and connect messages to a real owner–tenant service.
 
 **Project:** Haven — Property Management System  
 **Team:** [Add team member names and individual contributions]  
