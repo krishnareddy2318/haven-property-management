@@ -28,4 +28,4 @@ Build command: `npm run build` · Output directory: `dist` · Install command: `
 
 ## Rubric mapping and demo plan
 
-See [Review guide](docs/REVIEW-GUIDE.md) and [LinkedIn article draft](docs/LINKEDIN-ARTICLE.md). The guide maps all Review 1 and Review 2 rubric lines to the implemented screens and offers a short walkthrough and contribution template. Replace the contribution placeholders with the actual team members and their work before presenting.
+See the [Review guide](docs/REVIEW-GUIDE.md) and the [published LinkedIn article](https://www.linkedin.com/pulse/making-property-management-feel-more-human-our-haven-project-reddy-jj9bc/). The guide maps each Review 1 and Review 2 rubric line to the implemented screens and provides a short walkthrough. Confirm the team crew's specific task contributions before presenting.
