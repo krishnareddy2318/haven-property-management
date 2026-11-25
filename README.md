@@ -19,9 +19,12 @@ Use the **Owner / manager** or **Tenant** role and the demo account `demo@haven.
 - Authentication: signup/sign-in and demo access backed by `haven_users` and `haven_session` local-storage keys.
 - Persistence: properties and payment activity use `haven_properties` and `haven_tx`.
 
-## Deployment (Vercel or Git-backed host)
+## Deployment
 
-Build command: `npm run build` · Output directory: `dist` · Install command: `npm install` · Framework preset: Vite. Import this repository in Vercel or connect the Git provider; no environment variables are needed. Vite's SPA fallback is handled by the host's Vite preset. For a static GitHub Pages subpath, configure Vite's `base` to match the repository path first.
+GitHub repository: [krishnareddy2318/haven-property-management](https://github.com/krishnareddy2318/haven-property-management)  
+Production site: [haven-property-management.vercel.app](https://haven-property-management.vercel.app)
+
+Build command: `npm run build` · Output directory: `dist` · Install command: `npm install` · Framework preset: Vite. The Vercel project is connected to the GitHub repository's `main` branch. No environment variables are required. For GitHub Pages under a repository subpath, configure Vite's `base` first.
 
 ## Rubric mapping and demo plan
 
