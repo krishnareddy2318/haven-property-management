@@ -14,10 +14,10 @@ Use the **Owner / manager** or **Tenant** role and the demo account `demo@haven.
 ## Implementation
 
 - Vite + React, with responsive CSS Grid and Flexbox layouts.
-- Owner module: portfolio metrics, property list/search/filter, add-property dialog, rent activity, and payment overview.
-- Tenant module: personal home and activity, with a simulated rent-payment action.
+- Owner module: portfolio metrics, property list/search/filter, add-property dialog, tenant view, rent activity, lease-renewal review, and owner–tenant messaging.
+- Tenant module: personal home and payment history, lease-renewal requests, messaging, and a simulated rent-payment action.
 - Authentication: signup/sign-in and demo access backed by `haven_users` and `haven_session` local-storage keys.
-- Persistence: properties and payment activity use `haven_properties` and `haven_tx`.
+- Persistence: properties, payment activity, lease records, and messages are stored in this browser's local storage.
 
 ## Deployment
 
