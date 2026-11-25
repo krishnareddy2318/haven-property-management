@@ -15,7 +15,7 @@ Haven supports property owners/managers and renters in the same rental workflow.
 2. **UI template and layout:** responsive CSS Grid cards and two-column dashboard; Flexbox navigation, rows, and toolbars; mobile navigation drawer.
 3. **Login and signup using local storage:** account creation and session persistence use `haven_users` and `haven_session`. Demo credentials: `demo@haven.co` / `haven123`. This classroom-only approach stores demo passwords in browser storage; production authentication requires a secure backend.
 4. **Project demonstration and explanation:** follow the 3-minute walkthrough below. Explain role-based workflows, local persistence, property/payment activity, lease renewals, and owner–tenant messages.
-5. **LinkedIn article with DTI concepts and review:** use the editable draft in [LINKEDIN-ARTICLE.md](LINKEDIN-ARTICLE.md). Replace bracketed details and insert the actual review outcome before publishing.
+5. **LinkedIn article with DTI concepts and review:** the Haven article is published on [LinkedIn](https://www.linkedin.com/pulse/making-property-management-feel-more-human-our-haven-project-reddy-jj9bc/). It explains DTI concepts and includes a project review reflection. The source copy is in [LINKEDIN-ARTICLE.md](LINKEDIN-ARTICLE.md).
 6. **Git deployment:** the project is published at [krishnareddy2318/haven-property-management](https://github.com/krishnareddy2318/haven-property-management). The production app is live at [haven-property-management.vercel.app](https://haven-property-management.vercel.app). Deployment settings are in the README.
 
 ## Review 2 rubric
@@ -24,11 +24,13 @@ Haven supports property owners/managers and renters in the same rental workflow.
 2. **Login and signup with local storage:** same authentication flow as Review 1; signup, logout, and sign-in preserve the session across reloads.
 3. **Admin/user modules, UI, functionality:** role experiences, property creation and filtering, role-filtered payment history, lease renewal requests, browser-local owner–tenant messages, responsive UI, and feedback toasts are implemented.
 4. **Vercel/Git deployment:** the Vercel production deployment is live at [haven-property-management.vercel.app](https://haven-property-management.vercel.app), built from the GitHub repository's `main` branch with `npm install`, `npm run build`, and output `dist`.
-5. **Team coordination and individual contribution:** the known project-coordination contribution is recorded below. If this is a group submission, add each remaining member and their verified work before presenting; do not guess contributions.
+5. **Team coordination and individual contribution:** the three-member team and reported roles are recorded below. The project lead’s coordination contribution is documented; task-level contribution details for the team crew were not supplied, so confirm and add their specific work before presenting.
 
 | Team member | Individual contribution | Evidence / file or screen |
 |---|---|---|
-| Krishna Reddy — project coordination | Defined the project brief and rubric scope; authorized the public GitHub repository and Vercel deployment; reviewed the owner and tenant workflows. | Project brief; [public repository](https://github.com/krishnareddy2318/haven-property-management); [live demo](https://haven-property-management.vercel.app) |
+| Krishna Reddy (2500030154) — Team Lead | Defined the project brief and rubric scope; coordinated the public GitHub repository and Vercel deployment; reviewed the owner and tenant workflows. | Project brief; [public repository](https://github.com/krishnareddy2318/haven-property-management); [live demo](https://haven-property-management.vercel.app) |
+| Ram Charan (2500030336) — Team Crew | Team role reported; specific task contribution needs confirmation. | Team confirmation required |
+| Poorna Sai (2500031453) — Team Crew | Team role reported; specific task contribution needs confirmation. | Team confirmation required |
 
 ## Suggested 3-minute presentation
 

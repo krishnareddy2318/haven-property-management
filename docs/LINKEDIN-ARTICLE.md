@@ -26,6 +26,7 @@ Building both roles helped us think beyond a property list. Good operational sof
 Our next step would be to replace browser-local sample records and simulated payments with a secure backend, add maintenance requests and signed lease documents, and connect the demo conversation to a real owner–tenant service.
 
 **Project:** Haven — Property Management System  
+**Team:** Krishna Reddy (2500030154), Team Lead; Ram Charan (2500030336), Team Crew; Poorna Sai (2500031453), Team Crew.  
 **Project review reflection (25 Nov 2026):** The owner and tenant workflows, local-storage login, responsive UI, leases, and messages are demonstrated in the deployed prototype. The main lesson from reviewing the finished flow is that a clear role-based workflow improves visibility, while real use would require secure server-side data and authentication.  
 **Live demo:** https://haven-property-management.vercel.app  
 **Git repository:** https://github.com/krishnareddy2318/haven-property-management
