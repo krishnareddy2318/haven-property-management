@@ -16,14 +16,14 @@ Haven supports property owners/managers and renters in the same rental workflow.
 3. **Login and signup using local storage:** account creation and session persistence use `haven_users` and `haven_session`. Demo credentials: `demo@haven.co` / `haven123`. This classroom-only approach stores demo passwords in browser storage; production authentication requires a secure backend.
 4. **Project demonstration and explanation:** follow the 3-minute walkthrough below. Explain role-based workflows, local persistence, and the property/payment interaction.
 5. **LinkedIn article with DTI concepts and review:** use the editable draft in [LINKEDIN-ARTICLE.md](LINKEDIN-ARTICLE.md). Replace bracketed details and insert the actual review outcome before publishing.
-6. **Git deployment:** commit the project to your team's Git repository and connect that repository to Vercel (or another Vite-compatible Git host). Deployment settings are in the README. No Git account or hosting credentials were provided, so a live deployment URL cannot be produced from this workspace.
+6. **Git deployment:** the project is published at [krishnareddy2318/haven-property-management](https://github.com/krishnareddy2318/haven-property-management). The production app is live at [haven-property-management.vercel.app](https://haven-property-management.vercel.app). Deployment settings are in the README.
 
 ## Review 2 rubric
 
 1. **React Vite implementation:** `package.json`, `vite.config.js`, `index.html`, and `src/` implement the React + Vite app.
 2. **Login and signup with local storage:** same authentication flow as Review 1; signup, logout, and sign-in preserve the session across reloads.
 3. **Admin/user modules, UI, functionality:** role experiences, property creation and filtering, sample payment activity, responsive UI, and feedback toasts are implemented.
-4. **Vercel/Git deployment:** connect the Git repository to Vercel; use `npm install`, `npm run build`, output `dist`. Add the deployment URL to the article and presentation after hosting.
+4. **Vercel/Git deployment:** the Vercel production deployment is live at [haven-property-management.vercel.app](https://haven-property-management.vercel.app), built from the GitHub repository's `main` branch with `npm install`, `npm run build`, and output `dist`.
 5. **Team coordination and individual contribution:** use the contribution table below during the presentation. Enter each member's real name and work; do not claim contributions that were not made.
 
 | Team member | Individual contribution | Evidence / file or screen |

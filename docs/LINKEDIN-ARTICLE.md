@@ -27,6 +27,7 @@ Our next step would be to replace sample records and simulated payments with a s
 **Project:** Haven — Property Management System  
 **Team:** [Add team member names and individual contributions]  
 **Review:** [Add review date and one genuine takeaway]  
-**Live demo / repository:** [Add deployed URL] · [Add Git repository URL]
+**Live demo:** https://haven-property-management.vercel.app  
+**Git repository:** https://github.com/krishnareddy2318/haven-property-management
 
 #PropertyManagement #DigitalTransformation #React #Vite #StudentProject #DTI
